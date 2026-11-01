@@ -2293,13 +2293,13 @@ msgstr "起始牌："
 #: pysollib\wizardutil.py:218
 #: pysollib\wizardutil.py:283
 msgid "Up"
-msgstr ""
+msgstr "上"
 
 #: pysollib\wizardutil.py:217
 #: pysollib\wizardutil.py:283
 #: pysollib\wizardutil.py:284
 msgid "Down"
-msgstr ""
+msgstr "下"
 
 #: pysollib\wizardutil.py:219
 #: pysollib\wizardutil.py:285
@@ -3428,7 +3428,7 @@ msgstr ""
 #: pysollib\games\special\dashavatara.py:360
 #: pysollib\games\special\mughal.py:262
 msgid "Black"
-msgstr ""
+msgstr "黑色"
 
 #: pysollib\kivy\menubar.py:911
 #: pysollib\pysolgtk\selecttile.py:107
@@ -3438,7 +3438,7 @@ msgstr ""
 #: pysollib\games\special\matchthree.py:105
 #: pysollib\games\special\samegame.py:144
 msgid "Blue"
-msgstr ""
+msgstr "藍色"
 
 #: pysollib\kivy\menubar.py:916
 #: pysollib\pysolgtk\selecttile.py:108
@@ -3454,14 +3454,14 @@ msgstr ""
 #: pysollib\games\special\dashavatara.py:360
 #: pysollib\games\special\mughal.py:262
 msgid "Brown"
-msgstr ""
+msgstr "棕色"
 
 #: pysollib\kivy\menubar.py:926
 #: pysollib\pysolgtk\selecttile.py:110
 #: pysollib\tile\selecttile.py:98
 #: pysollib\tk\selecttile.py:77
 msgid "Cyan"
-msgstr ""
+msgstr "青色"
 
 #: pysollib\kivy\menubar.py:931
 #: pysollib\pysolgtk\selecttile.py:111
@@ -3478,7 +3478,7 @@ msgstr ""
 #: pysollib\games\special\dashavatara.py:361
 #: pysollib\games\special\mughal.py:263
 msgid "Grey"
-msgstr ""
+msgstr "灰色"
 
 #: pysollib\kivy\menubar.py:941
 #: pysollib\pysolgtk\selecttile.py:113
@@ -3491,7 +3491,7 @@ msgstr ""
 #: pysollib\games\special\mughal.py:263
 #: pysollib\games\special\samegame.py:144
 msgid "Green"
-msgstr ""
+msgstr "綠色"
 
 #: pysollib\kivy\menubar.py:946
 #: pysollib\pysolgtk\selecttile.py:114
@@ -3505,7 +3505,7 @@ msgstr ""
 #: pysollib\tile\selecttile.py:103
 #: pysollib\tk\selecttile.py:82
 msgid "Magenta"
-msgstr ""
+msgstr "洋紅"
 
 #: pysollib\kivy\menubar.py:956
 #: pysollib\pysolgtk\selecttile.py:116
@@ -3532,14 +3532,14 @@ msgstr ""
 #: pysollib\games\special\mughal.py:263
 #: pysollib\games\special\samegame.py:145
 msgid "Orange"
-msgstr ""
+msgstr "橘色"
 
 #: pysollib\kivy\menubar.py:971
 #: pysollib\pysolgtk\selecttile.py:119
 #: pysollib\tile\selecttile.py:107
 #: pysollib\tk\selecttile.py:86
 msgid "Pink"
-msgstr ""
+msgstr "粉紅"
 
 #: pysollib\kivy\menubar.py:976
 #: pysollib\pysolgtk\selecttile.py:120
@@ -3549,7 +3549,7 @@ msgstr ""
 #: pysollib\games\special\matchthree.py:106
 #: pysollib\games\special\samegame.py:145
 msgid "Purple"
-msgstr ""
+msgstr "紫色"
 
 #: pysollib\kivy\menubar.py:981
 #: pysollib\pysolgtk\selecttile.py:121
@@ -3562,7 +3562,7 @@ msgstr ""
 #: pysollib\games\special\mughal.py:262
 #: pysollib\games\special\samegame.py:144
 msgid "Red"
-msgstr ""
+msgstr "紅色"
 
 #: pysollib\kivy\menubar.py:986
 #: pysollib\pysolgtk\selecttile.py:122
@@ -3593,7 +3593,7 @@ msgstr ""
 #: pysollib\games\mahjongg\mahjongg.py:355
 #: pysollib\games\special\dashavatara.py:361
 msgid "White"
-msgstr ""
+msgstr "白色"
 
 #: pysollib\kivy\menubar.py:1006
 #: pysollib\pysolgtk\selecttile.py:126
@@ -3605,7 +3605,7 @@ msgstr ""
 #: pysollib\games\special\mughal.py:262
 #: pysollib\games\special\samegame.py:144
 msgid "Yellow"
-msgstr ""
+msgstr "黃色"
 
 #: pysollib\kivy\menubar.py:1011
 #: pysollib\tile\selecttile.py:83
@@ -3682,7 +3682,7 @@ msgstr ""
 #: pysollib\tile\toolbar.py:206
 #: pysollib\tk\toolbar.py:221
 msgid "Toolbar"
-msgstr ""
+msgstr "工具列"
 
 #: pysollib\kivy\menubar.py:1174
 #: pysollib\ui\tktile\menubar.py:57
@@ -3692,22 +3692,22 @@ msgstr ""
 #: pysollib\kivy\menubar.py:1179
 #: pysollib\ui\tktile\menubar.py:60
 msgid "Top"
-msgstr ""
+msgstr "上方"
 
 #: pysollib\kivy\menubar.py:1183
 #: pysollib\ui\tktile\menubar.py:63
 msgid "Bottom"
-msgstr ""
+msgstr "下方"
 
 #: pysollib\kivy\menubar.py:1187
 #: pysollib\ui\tktile\menubar.py:66
 msgid "Left"
-msgstr ""
+msgstr "左"
 
 #: pysollib\kivy\menubar.py:1191
 #: pysollib\ui\tktile\menubar.py:69
 msgid "Right"
-msgstr ""
+msgstr "右"
 
 #: pysollib\kivy\menubar.py:1196
 #: pysollib\ui\tktile\menubar.py:50
@@ -4178,7 +4178,7 @@ msgstr "瀏覽器"
 #: pysollib\tile\tkhtml.py:80
 #: pysollib\tk\tkhtml.py:75
 msgid "Back"
-msgstr ""
+msgstr "返回"
 
 #: pysollib\kivy\tkhtml.py:479
 #: pysollib\pysolgtk\tkhtml.py:221
@@ -4192,7 +4192,7 @@ msgstr "索引"
 #: pysollib\tile\tkhtml.py:84
 #: pysollib\tk\tkhtml.py:79
 msgid "Forward"
-msgstr ""
+msgstr "前進"
 
 #: pysollib\kivy\tkstats.py:141
 #: pysollib\tile\tkstats.py:167
@@ -4280,7 +4280,7 @@ msgstr ""
 #: pysollib\tile\toolbar.py:176
 #: pysollib\tk\toolbar.py:185
 msgid "New"
-msgstr ""
+msgstr "新"
 
 #: pysollib\kivy\toolbar.py:243
 #: pysollib\tile\toolbar.py:177
@@ -4441,7 +4441,7 @@ msgid "Hi-Res cardsets"
 msgstr ""
 
 msgid "Tiny"
-msgstr ""
+msgstr "極小"
 
 msgid "Small"
 msgstr "小"
@@ -4879,12 +4879,12 @@ msgstr ""
 #: pysollib\tile\fontsdialog.py:102
 #: pysollib\tk\fontsdialog.py:85
 msgid "Bold"
-msgstr ""
+msgstr "粗體"
 
 #: pysollib\tile\fontsdialog.py:106
 #: pysollib\tk\fontsdialog.py:89
 msgid "Italic"
-msgstr ""
+msgstr "斜體"
 
 #: pysollib\tile\fontsdialog.py:112
 #: pysollib\tile\selectcardset.py:754
@@ -5216,7 +5216,7 @@ msgstr ""
 
 #: pysollib\tile\selectgame.py:1243
 msgid "Recent"
-msgstr ""
+msgstr "最近"
 
 #: pysollib\tile\selectgame.py:1249
 msgid "Favorite"
