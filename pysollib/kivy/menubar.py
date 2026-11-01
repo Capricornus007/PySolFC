@@ -717,6 +717,15 @@ class LOptionsMenuGenerator(LTreeGenerator):
                               _('Polish'),
                               self.menubar.tkopt.language, 'pl',
                               self.menubar.mOptLanguage)
+            # 2026-11-01：po/ 裡有 pt_BR 與 pt 的翻譯，選擇器卻沒列——補上。
+            self.addRadioNode(tv, rg,
+                              _('Portuguese (Brazil)'),
+                              self.menubar.tkopt.language, 'pt_BR',
+                              self.menubar.mOptLanguage)
+            self.addRadioNode(tv, rg,
+                              _('Portuguese'),
+                              self.menubar.tkopt.language, 'pt',
+                              self.menubar.mOptLanguage)
             self.addRadioNode(tv, rg,
                               _('Russian'),
                               self.menubar.tkopt.language, 'ru',

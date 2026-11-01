@@ -286,6 +286,7 @@ class PysolMenubarTkCommon:
         self.tkopt = Struct(
             gameid=tkinter.IntVar(),
             gameid_popular=tkinter.IntVar(),
+            language=tkinter.StringVar(),
             autofaceup=tkinter.BooleanVar(),
             autodrop=tkinter.BooleanVar(),
             autodeal=tkinter.BooleanVar(),
@@ -361,6 +362,7 @@ class PysolMenubarTkCommon:
     def _setOptions(self):
         tkopt, opt = self.tkopt, self.app.opt
         # set state of the menu items
+        tkopt.language.set(opt.language)
         tkopt.autofaceup.set(opt.autofaceup)
         tkopt.autodrop.set(opt.autodrop)
         tkopt.autodeal.set(opt.autodeal)
@@ -669,6 +671,22 @@ class PysolMenubarTkCommon:
         menu.add_command(
             label=n_("&Player options..."),
             command=self.mOptPlayerOptions, accelerator=m+'P')
+        # 2026-11-01：語言選擇器——桌面端此前只有 options.language 資料層，沒有 UI。
+        # 語言清單 = po/ 實際存在的翻譯（de fr it pl pt_BR pt ru + 預設跟隨系統）。
+        submenu = MfxMenu(menu, label=n_("&Language"))
+        for lang, label in (
+            ('', n_("&Default (system)")),
+            ('en', n_("&English")),
+            ('de', n_("&German")),
+            ('it', n_("&Italian")),
+            ('pl', n_("&Polish")),
+            ('pt_BR', n_("&Portuguese (Brazil)")),
+            ('pt', n_("&Portuguese")),
+            ('ru', n_("&Russian")),
+        ):
+            submenu.add_radiobutton(
+                label=label, variable=self.tkopt.language, value=lang,
+                command=self.mOptLanguage)
         submenu = MfxMenu(menu, label=n_("&Automatic play"))
         submenu.add_checkbutton(
             label=n_("Auto &face-up"), variable=self.tkopt.autofaceup,
@@ -1663,6 +1681,18 @@ Unsupported game for import.
             if wasPaused:
                 self.game.doPause()
         self.tkopt.sound.set(self.app.opt.sound)
+
+    def mOptLanguage(self, *args):
+        if self._cancelDrag():
+            return
+        self.app.opt.language = self.tkopt.language.get()
+        # 立即落盤：語言要重啟才生效，若只等退出時保存，中途崩潰會丟選擇。
+        self.app.opt.save(self.app.fn.opt_cfg)
+        from tkinter.messagebox import showinfo
+        showinfo(
+            parent=self.menubar, title=_('Note'),
+            message=_('These settings will take effect'
+                      ' the next time you restart the application.'))
 
     def mOptAutoFaceUp(self, *args):
         if self._cancelDrag():
