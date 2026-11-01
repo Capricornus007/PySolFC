@@ -632,7 +632,7 @@ msgstr ""
 
 #: pysollib\gamedb.py:148
 msgid "Pairing"
-msgstr ""
+msgstr "配對"
 
 #: pysollib\gamedb.py:149
 msgid "Picture Gallery"
@@ -1236,12 +1236,12 @@ msgstr ""
 
 #: pysollib\resource.py:220
 msgid "Trumps only"
-msgstr ""
+msgstr "僅王牌"
 
 #: pysollib\resource.py:221
 #: pysollib\resource.py:320
 msgid "Matching"
-msgstr ""
+msgstr "符合"
 
 #: pysollib\resource.py:227
 msgid "No Jokers"
@@ -1527,7 +1527,7 @@ msgstr "空格無法填補。"
 #: pysollib\games\terrace.py:65
 #: pysollib\games\terrace.py:85
 msgid "any card"
-msgstr ""
+msgstr "任意牌"
 
 #: pysollib\stack.py:1664
 #: pysollib\util.py:61
@@ -1594,11 +1594,11 @@ msgstr "停止"
 
 #: pysollib\stack.py:2026
 msgid "Variable redeals."
-msgstr ""
+msgstr "變動重發。"
 
 #: pysollib\stack.py:2028
 msgid "Unlimited redeals."
-msgstr ""
+msgstr "無限重發。"
 
 #: pysollib\stack.py:2031
 #, python-format
@@ -1614,7 +1614,7 @@ msgstr ""
 #: pysollib\stack.py:2339
 #: pysollib\stack.py:3218
 msgid "Reserve. No building."
-msgstr ""
+msgstr "預備堆不可疊放。"
 
 #: pysollib\stack.py:2385
 msgid "Foundation."
@@ -1622,11 +1622,11 @@ msgstr ""
 
 #: pysollib\stack.py:2425
 msgid "Foundation. Build up by suit."
-msgstr ""
+msgstr "基礎堆依花色順升疊放。"
 
 #: pysollib\stack.py:2427
 msgid "Foundation. Build down by suit."
-msgstr ""
+msgstr "基礎堆依花色順降疊放。"
 
 #: pysollib\stack.py:2428
 #: pysollib\stack.py:2441
@@ -1676,7 +1676,7 @@ msgstr ""
 #: pysollib\games\golf.py:128
 #: pysollib\games\golf.py:493
 msgid "Tableau. No building."
-msgstr ""
+msgstr "牌列不可疊放。"
 
 #: pysollib\stack.py:2654
 msgid "Tableau. Build up by alternate color."
@@ -1697,11 +1697,11 @@ msgstr ""
 #: pysollib\stack.py:2803
 #: pysollib\games\grandfathersclock.py:577
 msgid "Tableau. Build by same rank."
-msgstr ""
+msgstr "牌列依同點數疊放。"
 
 #: pysollib\stack.py:2668
 msgid "Tableau. Build up by color."
-msgstr ""
+msgstr "牌列依顏色升疊放。"
 
 #: pysollib\stack.py:2670
 msgid "Tableau. Build down by color."
@@ -1709,11 +1709,11 @@ msgstr ""
 
 #: pysollib\stack.py:2681
 msgid "Tableau. Build up by suit."
-msgstr ""
+msgstr "牌列依花色升疊放。"
 
 #: pysollib\stack.py:2683
 msgid "Tableau. Build down by suit."
-msgstr ""
+msgstr "牌列依花色降疊放。"
 
 #: pysollib\stack.py:2694
 msgid "Tableau. Build up regardless of suit."
@@ -1869,7 +1869,7 @@ msgstr ""
 
 #: pysollib\stack.py:3219
 msgid "Free cell."
-msgstr ""
+msgstr "自由格。"
 
 #: pysollib\stats.py:38
 #: pysollib\stats.py:106
@@ -2131,7 +2131,7 @@ msgstr ""
 
 #: pysollib\wizardutil.py:133
 msgid "Number of decks:"
-msgstr ""
+msgstr "副數："
 
 #: pysollib\wizardutil.py:140
 #: pysollib\games\special\mughal.py:259
@@ -2149,19 +2149,19 @@ msgstr ""
 
 #: pysollib\wizardutil.py:148
 msgid "Deal to waste"
-msgstr ""
+msgstr "發到廢牌堆"
 
 #: pysollib\wizardutil.py:149
 msgid "Deal to tableau"
-msgstr ""
+msgstr "發到牌列"
 
 #: pysollib\wizardutil.py:150
 msgid "Deal to first tableau"
-msgstr ""
+msgstr "發到第一牌列"
 
 #: pysollib\wizardutil.py:151
 msgid "Deal to reserves"
-msgstr ""
+msgstr "發到預備堆"
 
 #: pysollib\wizardutil.py:153
 msgid "Grounds for a Divorce"
@@ -2189,19 +2189,19 @@ msgstr ""
 #: pysollib\wizardutil.py:160
 #: pysollib\wizardutil.py:166
 msgid "No redeals"
-msgstr ""
+msgstr "不重發"
 
 #: pysollib\wizardutil.py:161
 msgid "One redeal"
-msgstr ""
+msgstr "重發一次"
 
 #: pysollib\wizardutil.py:162
 msgid "Two redeals"
-msgstr ""
+msgstr "重發兩次"
 
 #: pysollib\wizardutil.py:163
 msgid "Three redeals"
-msgstr ""
+msgstr "重發三次"
 
 #: pysollib\wizardutil.py:164
 #: pysollib\kivy\selectgame.py:255
@@ -2209,40 +2209,40 @@ msgstr ""
 #: pysollib\tile\selectgame.py:234
 #: pysollib\tk\selectgame.py:230
 msgid "Unlimited redeals"
-msgstr ""
+msgstr "無限重發"
 
 #: pysollib\wizardutil.py:167
 msgid "Number of redeals:"
-msgstr ""
+msgstr "重發次數："
 
 #: pysollib\wizardutil.py:174
 msgid "# of cards dealt to the waste:"
-msgstr ""
+msgstr "發到廢牌堆的張數："
 
 #: pysollib\wizardutil.py:180
 msgid "Single card waste:"
-msgstr ""
+msgstr "廢牌堆單張："
 
 #: pysollib\wizardutil.py:187
 msgid "Shuffle during redeal:"
-msgstr ""
+msgstr "重發時洗牌："
 
 #: pysollib\wizardutil.py:192
 #: pysollib\wizardutil.py:203
 #: pysollib\wizardutil.py:245
 msgid "Same suit"
-msgstr ""
+msgstr "同花色"
 
 #: pysollib\wizardutil.py:193
 #: pysollib\wizardutil.py:246
 #: pysollib\wizardutil.py:268
 msgid "Alternate color"
-msgstr ""
+msgstr "跳色"
 
 #: pysollib\wizardutil.py:194
 #: pysollib\wizardutil.py:247
 msgid "Same color"
-msgstr ""
+msgstr "同色"
 
 #: pysollib\wizardutil.py:195
 #: pysollib\wizardutil.py:248
@@ -2252,7 +2252,7 @@ msgstr ""
 #: pysollib\wizardutil.py:196
 #: pysollib\wizardutil.py:249
 msgid "Any suit but the same"
-msgstr ""
+msgstr "同花色以外皆可"
 
 #: pysollib\wizardutil.py:197
 #: pysollib\wizardutil.py:257
@@ -2287,7 +2287,7 @@ msgstr ""
 #: pysollib\wizardutil.py:213
 #: pysollib\wizardutil.py:279
 msgid "Base card:"
-msgstr ""
+msgstr "起始牌："
 
 #: pysollib\wizardutil.py:217
 #: pysollib\wizardutil.py:218
@@ -2325,19 +2325,19 @@ msgstr ""
 
 #: pysollib\wizardutil.py:231
 msgid "First card sets base cards:"
-msgstr ""
+msgstr "首張牌設定起始牌："
 
 #: pysollib\wizardutil.py:239
 msgid "Number of tableau piles:"
-msgstr ""
+msgstr "牌列堆數："
 
 #: pysollib\wizardutil.py:243
 msgid "No building"
-msgstr ""
+msgstr "不疊放"
 
 #: pysollib\wizardutil.py:251
 msgid "Up or down by same suit"
-msgstr ""
+msgstr "依同花色升或降"
 
 #: pysollib\wizardutil.py:252
 msgid "Up or down by alternate color"
@@ -2345,11 +2345,11 @@ msgstr ""
 
 #: pysollib\wizardutil.py:253
 msgid "Up or down by same color"
-msgstr ""
+msgstr "依同色升或降"
 
 #: pysollib\wizardutil.py:254
 msgid "Up or down by rank"
-msgstr ""
+msgstr "依點數升或降"
 
 #: pysollib\wizardutil.py:255
 msgid "Up or down by any suit but the same"
@@ -2377,12 +2377,12 @@ msgstr ""
 
 #: pysollib\wizardutil.py:283
 msgid "Same rank"
-msgstr ""
+msgstr "同點數"
 
 #: pysollib\wizardutil.py:289
 #: pysollib\wizardutil.py:290
 msgid "Sequence"
-msgstr ""
+msgstr "順序"
 
 #: pysollib\wizardutil.py:297
 msgid "Wrapping:"
@@ -2394,11 +2394,11 @@ msgstr ""
 
 #: pysollib\wizardutil.py:312
 msgid "Number of reserves:"
-msgstr ""
+msgstr "預備堆數："
 
 #: pysollib\wizardutil.py:319
 msgid "Max # of accepted cards:"
-msgstr ""
+msgstr "可收牌上限："
 
 #: pysollib\wizardutil.py:323
 #: pysollib\games\special\ishido.py:131
@@ -2416,19 +2416,19 @@ msgstr ""
 
 #: pysollib\wizardutil.py:335
 msgid "# of face-down cards dealt to the tableau pile:"
-msgstr ""
+msgstr "牌列每堆暗牌張數："
 
 #: pysollib\wizardutil.py:342
 msgid "# of face-up cards dealt to the tableau pile:"
-msgstr ""
+msgstr "牌列每堆明牌張數："
 
 #: pysollib\wizardutil.py:349
 msgid "# of cards dealt to the reserve:"
-msgstr ""
+msgstr "發到預備堆的張數："
 
 #: pysollib\wizardutil.py:356
 msgid "Max # of dealt cards:"
-msgstr ""
+msgstr "可發牌上限："
 
 #: pysollib\wizardutil.py:362
 msgid "Deal first cards to the foundations:"
@@ -2458,7 +2458,7 @@ msgstr "預備"
 
 #: pysollib\wizardutil.py:397
 msgid "Opening deal"
-msgstr ""
+msgstr "開局發牌"
 
 #: pysollib\game\__init__.py:145
 #: pysollib\game\__init__.py:151
@@ -2504,7 +2504,7 @@ msgstr ""
 
 #: pysollib\game\__init__.py:1674
 msgid "Empty stack"
-msgstr ""
+msgstr "空堆"
 
 #: pysollib\game\__init__.py:1708
 msgid "Discard current game?"
@@ -2789,7 +2789,7 @@ msgstr ""
 
 #: pysollib\games\canfield.py:226
 msgid "Base rank: "
-msgstr ""
+msgstr "起始點數： "
 
 #: pysollib\games\canfield.py:395
 #: pysollib\games\klondike.py:128
@@ -2815,7 +2815,7 @@ msgstr ""
 
 #: pysollib\games\fan.py:540
 msgid "Base card - Ace or King."
-msgstr ""
+msgstr "起始牌——A 或 K。"
 
 #: pysollib\games\golf.py:120
 #: pysollib\games\royalcotillion.py:435
@@ -2832,7 +2832,7 @@ msgstr ""
 #: pysollib\games\threepeaks.py:276
 #: pysollib\games\mahjongg\mahjongg.py:427
 msgid "Covered by"
-msgstr ""
+msgstr "被覆蓋於"
 
 #: pysollib\games\golf.py:713
 msgid "Reserve. Build up regardless of suit."
@@ -2942,7 +2942,7 @@ msgstr ""
 
 #: pysollib\games\pushpin.py:406
 msgid "Goal card: "
-msgstr ""
+msgstr "目標牌： "
 
 #: pysollib\games\royalcotillion.py:301
 msgid "Waste. Build up or down by suit."
@@ -2964,7 +2964,7 @@ msgstr ""
 
 #: pysollib\games\tournament.py:224
 msgid "Reserve. Build down by suit."
-msgstr ""
+msgstr "預備堆依花色降疊放。"
 
 #: pysollib\games\yukon.py:181
 msgid ""
@@ -3125,7 +3125,7 @@ msgstr "自動放牌"
 #: pysollib\tile\toolbar.py:185
 #: pysollib\tk\toolbar.py:194
 msgid "Shuffle tiles"
-msgstr ""
+msgstr "洗牌"
 
 #: pysollib\kivy\menubar.py:390
 msgid "Deal cards"
@@ -3253,7 +3253,7 @@ msgstr ""
 
 #: pysollib\kivy\menubar.py:668
 msgid "Auto-remove first card (in Pegged games)"
-msgstr ""
+msgstr "自動移除首張（孔明棋類）"
 
 #: pysollib\kivy\menubar.py:679
 msgid "Language"
@@ -3631,7 +3631,7 @@ msgstr ""
 
 #: pysollib\kivy\menubar.py:1054
 msgid "Negative cards bottom"
-msgstr ""
+msgstr "倒數牌底"
 
 #: pysollib\kivy\menubar.py:1059
 #: pysollib\ui\tktile\menubar.py:817
@@ -4076,7 +4076,7 @@ msgstr "依重發數"
 #: pysollib\tile\selectgame.py:226
 #: pysollib\tk\selectgame.py:222
 msgid "No redeal"
-msgstr ""
+msgstr "不重發"
 
 #: pysollib\kivy\selectgame.py:249
 #: pysollib\pysolgtk\selectgame.py:270
@@ -4104,7 +4104,7 @@ msgstr ""
 #: pysollib\tile\selectgame.py:236
 #: pysollib\tk\selectgame.py:232
 msgid "Variable redeals"
-msgstr ""
+msgstr "變動重發"
 
 #: pysollib\kivy\selectgame.py:259
 #: pysollib\pysolgtk\selectgame.py:275
@@ -4319,7 +4319,7 @@ msgstr "自動放牌"
 #: pysollib\tile\toolbar.py:184
 #: pysollib\tk\toolbar.py:193
 msgid "Auto drop cards"
-msgstr ""
+msgstr "自動放牌"
 
 #: pysollib\kivy\toolbar.py:247
 #: pysollib\tile\toolbar.py:185
@@ -4603,13 +4603,13 @@ msgstr "發牌"
 #: pysollib\tile\soundoptionsdialog.py:62
 #: pysollib\tk\soundoptionsdialog.py:62
 msgid "Deal waste"
-msgstr ""
+msgstr "發到廢牌堆"
 
 #: pysollib\pysolgtk\soundoptionsdialog.py:51
 #: pysollib\tile\soundoptionsdialog.py:64
 #: pysollib\tk\soundoptionsdialog.py:64
 msgid "Turn waste"
-msgstr ""
+msgstr "翻廢牌"
 
 #: pysollib\pysolgtk\soundoptionsdialog.py:52
 #: pysollib\tile\soundoptionsdialog.py:65
@@ -4627,7 +4627,7 @@ msgstr "自動收牌"
 #: pysollib\tile\soundoptionsdialog.py:68
 #: pysollib\tk\soundoptionsdialog.py:68
 msgid "Drop pair"
-msgstr ""
+msgstr "成對放牌"
 
 #: pysollib\pysolgtk\soundoptionsdialog.py:58
 #: pysollib\tile\soundoptionsdialog.py:71
@@ -4918,25 +4918,25 @@ msgstr ""
 #: pysollib\tk\fontsdialog.py:166
 #: data\pysolfc.glade:3294
 msgid "Tableau default: "
-msgstr ""
+msgstr "牌列預設： "
 
 #: pysollib\tile\fontsdialog.py:180
 #: pysollib\tk\fontsdialog.py:167
 #: data\pysolfc.glade:3320
 msgid "Tableau fixed: "
-msgstr ""
+msgstr "牌列固定： "
 
 #: pysollib\tile\fontsdialog.py:181
 #: pysollib\tk\fontsdialog.py:168
 #: data\pysolfc.glade:3372
 msgid "Tableau large: "
-msgstr ""
+msgstr "牌列大： "
 
 #: pysollib\tile\fontsdialog.py:182
 #: pysollib\tk\fontsdialog.py:169
 #: data\pysolfc.glade:3346
 msgid "Tableau small: "
-msgstr ""
+msgstr "牌列小： "
 
 #: pysollib\tile\fontsdialog.py:196
 #: pysollib\tk\fontsdialog.py:181
@@ -5134,7 +5134,7 @@ msgstr ""
 #: pysollib\tile\selectcardset.py:753
 #: pysollib\tk\selectcardset.py:448
 msgid "Num. cards:"
-msgstr ""
+msgstr "張數："
 
 #: pysollib\tile\selectcardset.py:931
 #: pysollib\tile\selectcardset.py:936
@@ -5395,7 +5395,7 @@ msgstr ""
 #: pysollib\tk\timeoutsdialog.py:62
 #: data\pysolfc.glade:1612
 msgid "Raise card:"
-msgstr ""
+msgstr "提昇牌："
 
 #: pysollib\tile\timeoutsdialog.py:66
 #: pysollib\tk\timeoutsdialog.py:63
@@ -5441,7 +5441,7 @@ msgstr ""
 
 #: pysollib\tile\tkstats.py:87
 msgid "Progression"
-msgstr ""
+msgstr "递進"
 
 #: pysollib\tile\tkstats.py:175
 #: pysollib\tile\tkstats.py:176
@@ -5744,21 +5744,21 @@ msgstr ""
 
 #: pysollib\games\mahjongg\mahjongg.py:411
 msgid "Covered Tile"
-msgstr ""
+msgstr "覆蓋牌"
 
 #: pysollib\games\mahjongg\mahjongg.py:429
 #: pysollib\games\mahjongg\mahjongg.py:443
 #: pysollib\games\mahjongg\mahjongg.py:457
 msgid "Covered Tiles"
-msgstr ""
+msgstr "覆蓋牌"
 
 #: pysollib\games\mahjongg\mahjongg.py:441
 msgid "Blocked on left by"
-msgstr ""
+msgstr "左側受擋於"
 
 #: pysollib\games\mahjongg\mahjongg.py:455
 msgid "Blocked on right by"
-msgstr ""
+msgstr "右側受擋於"
 
 #: pysollib\games\mahjongg\mahjongg.py:1035
 msgid "Warning"
@@ -6050,11 +6050,11 @@ msgstr ""
 
 #: pysollib\games\special\hexadeck.py:429
 msgid "Bit stack"
-msgstr ""
+msgstr "位元疊"
 
 #: pysollib\games\special\hexadeck.py:431
 msgid "Byte stack"
-msgstr ""
+msgstr "位元組疊"
 
 #: pysollib\games\special\hexadeck.py:1870
 msgid ""
@@ -6120,7 +6120,7 @@ msgstr ""
 
 #: pysollib\games\special\pegged.py:245
 msgid "Card"
-msgstr ""
+msgstr "牌"
 
 #: pysollib\games\special\poker.py:75
 msgid ""
@@ -6142,12 +6142,12 @@ msgstr ""
 
 #: pysollib\games\special\tarock.py:231
 msgid "Trump"
-msgstr ""
+msgstr "王牌"
 
 #: pysollib\games\special\tarock.py:233
 #: pysollib\games\special\tarock.py:246
 msgid "Trumps"
-msgstr ""
+msgstr "王牌"
 
 #: pysollib\games\special\tarock.py:235
 msgid "Cavalier"
@@ -6417,7 +6417,7 @@ msgstr ""
 
 #: pysollib\ui\tktile\menubar.py:598
 msgid "&Deal cards"
-msgstr ""
+msgstr "發牌(&D)"
 
 #: pysollib\ui\tktile\menubar.py:601
 msgid "&Auto drop"
@@ -6425,7 +6425,7 @@ msgstr ""
 
 #: pysollib\ui\tktile\menubar.py:604
 msgid "Shu&ffle tiles"
-msgstr ""
+msgstr "洗牌(&F)"
 
 #: pysollib\ui\tktile\menubar.py:607
 msgid "&Pause"
@@ -6465,7 +6465,7 @@ msgstr ""
 
 #: pysollib\ui\tktile\menubar.py:641
 msgid "&Find card..."
-msgstr ""
+msgstr "尋找卡牌(&F)..."
 
 #: pysollib\ui\tktile\menubar.py:644
 msgid "Sh&ow full picture..."
@@ -6578,7 +6578,7 @@ msgstr ""
 
 #: pysollib\ui\tktile\menubar.py:737
 msgid "&Deal all cards (in Accordion type games)"
-msgstr ""
+msgstr "全部發牌(&D)（手風琴類）"
 
 #: pysollib\ui\tktile\menubar.py:741
 msgid "A&uto-remove first card (in Pegged games)"
@@ -6594,15 +6594,15 @@ msgstr ""
 
 #: pysollib\ui\tktile\menubar.py:752
 msgid "&Increase the card size"
-msgstr ""
+msgstr "放大卡牌(&I)"
 
 #: pysollib\ui\tktile\menubar.py:755
 msgid "&Decrease the card size"
-msgstr ""
+msgstr "縮小卡牌(&D)"
 
 #: pysollib\ui\tktile\menubar.py:758
 msgid "&Reset the card size"
-msgstr ""
+msgstr "重設卡牌尺寸(&R)"
 
 #: pysollib\ui\tktile\menubar.py:762
 msgid "&Auto scaling"
@@ -6666,7 +6666,7 @@ msgstr ""
 
 #: pysollib\ui\tktile\menubar.py:813
 msgid "&Negative cards bottom"
-msgstr ""
+msgstr "倒數牌底(&N)"
 
 #: pysollib\ui\tktile\menubar.py:821
 msgid "Shade &filled stacks"
@@ -6678,7 +6678,7 @@ msgstr ""
 
 #: pysollib\ui\tktile\menubar.py:829
 msgid "&Randomize card placement"
-msgstr ""
+msgstr "隨機排列(&R)"
 
 #: pysollib\ui\tktile\menubar.py:832
 msgid "A&nimations"
@@ -6892,7 +6892,7 @@ msgstr ""
 #: pysollib\ui\tktile\solverdialog.py:72
 #: pysollib\ui\tktile\solverdialog.py:76
 msgid "Max iterations:"
-msgstr ""
+msgstr "最大迭代次數："
 
 #: pysollib\ui\tktile\solverdialog.py:90
 msgid "Progress"
