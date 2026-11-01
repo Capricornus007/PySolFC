@@ -336,25 +336,25 @@ msgstr ""
 
 #: pysollib\actions.py:772
 msgid "Play demo"
-msgstr ""
+msgstr "播放示範"
 
 #: pysollib\actions.py:788
 msgid "Set player options"
-msgstr ""
+msgstr "設定玩家選項"
 
 #: pysollib\actions.py:812
 #: data\pysolfc.glade:1986
 msgid "Set colors"
-msgstr ""
+msgstr "設定顏色"
 
 #: pysollib\actions.py:838
 msgid "Set fonts"
-msgstr ""
+msgstr "設定字型"
 
 #: pysollib\actions.py:855
 #: data\pysolfc.glade:1493
 msgid "Set timeouts"
-msgstr ""
+msgstr "設定間隔"
 
 #: pysollib\app.py:349
 #: pysollib\main.py:421
@@ -769,7 +769,7 @@ msgstr ""
 
 #: pysollib\gamedb.py:180
 msgid "Custom"
-msgstr ""
+msgstr "自訂"
 
 #: pysollib\gamedb.py:184
 #: pysollib\wizardutil.py:117
@@ -1017,7 +1017,7 @@ msgstr ""
 
 #: pysollib\help.py:93
 msgid "Credits"
-msgstr ""
+msgstr "製作群"
 
 #: pysollib\help.py:94
 #, python-format
@@ -1176,7 +1176,7 @@ msgstr ""
 
 #: pysollib\options.py:347
 msgid "Unknown"
-msgstr ""
+msgstr "未知"
 
 #: pysollib\resource.py:197
 msgid "French type (52-54 cards)"
@@ -1357,7 +1357,7 @@ msgstr ""
 
 #: pysollib\resource.py:324
 msgid "Music"
-msgstr ""
+msgstr "音樂"
 
 #: pysollib\resource.py:325
 msgid "Nature"
@@ -1521,7 +1521,7 @@ msgstr ""
 
 #: pysollib\stack.py:1660
 msgid "Empty row cannot be filled."
-msgstr ""
+msgstr "空格無法填補。"
 
 #: pysollib\stack.py:1662
 #: pysollib\games\terrace.py:65
@@ -1901,13 +1901,13 @@ msgstr ""
 #: pysollib\tk\tkstats.py:898
 #: pysollib\tk\tkstats.py:948
 msgid "Won"
-msgstr ""
+msgstr "已勝"
 
 #: pysollib\stats.py:41
 #: pysollib\stats.py:147
 #: pysollib\pysolgtk\tkstats.py:425
 msgid "Lost"
-msgstr ""
+msgstr "已敗"
 
 #: pysollib\stats.py:42
 msgid "Avg. win time"
@@ -1968,11 +1968,11 @@ msgstr ""
 
 #: pysollib\stats.py:147
 msgid "Loaded"
-msgstr ""
+msgstr "已載入"
 
 #: pysollib\stats.py:147
 msgid "Not won"
-msgstr ""
+msgstr "未勝"
 
 #: pysollib\stats.py:148
 msgid "Perfect"
@@ -1983,7 +1983,7 @@ msgstr ""
 #: pysollib\stats.py:241
 #: pysollib\kivy\menubar.py:532
 msgid "Demo"
-msgstr ""
+msgstr "示範"
 
 #: pysollib\stats.py:212
 #: pysollib\pysolgtk\tkstats.py:70
@@ -2310,7 +2310,7 @@ msgstr ""
 #: pysollib\wizardutil.py:276
 #: pysollib\kivy\menubar.py:1076
 msgid "None"
-msgstr ""
+msgstr "無"
 
 #: pysollib\wizardutil.py:223
 #: pysollib\wizardutil.py:224
@@ -2436,25 +2436,25 @@ msgstr ""
 
 #: pysollib\wizardutil.py:368
 msgid "General"
-msgstr ""
+msgstr "一般"
 
 #: pysollib\wizardutil.py:374
 #: pysollib\game\__init__.py:1646
 #: pysollib\game\__init__.py:1647
 msgid "Talon"
-msgstr ""
+msgstr "牌垛"
 
 #: pysollib\wizardutil.py:380
 msgid "Foundations"
-msgstr ""
+msgstr "基礎堆"
 
 #: pysollib\wizardutil.py:386
 msgid "Tableau"
-msgstr ""
+msgstr "牌列"
 
 #: pysollib\wizardutil.py:394
 msgid "Reserves"
-msgstr ""
+msgstr "預備"
 
 #: pysollib\wizardutil.py:397
 msgid "Opening deal"
@@ -2472,18 +2472,18 @@ msgstr ""
 #: pysollib\game\__init__.py:1402
 #: pysollib\game\__init__.py:3800
 msgid "Paused"
-msgstr ""
+msgstr "已暫停"
 
 #: pysollib\game\__init__.py:1649
 msgid "Waste"
-msgstr ""
+msgstr "廢牌堆"
 
 #: pysollib\game\__init__.py:1651
 #: pysollib\game\__init__.py:1669
 #: pysollib\game\__init__.py:1671
 #: pysollib\game\__init__.py:1672
 msgid "Foundation"
-msgstr ""
+msgstr "基礎堆"
 
 #: pysollib\game\__init__.py:1658
 #: pysollib\games\mahjongg\mahjongg.py:396
@@ -2560,11 +2560,11 @@ msgstr ""
 #: pysollib\tile\soundoptionsdialog.py:86
 #: pysollib\tk\soundoptionsdialog.py:86
 msgid "Game won"
-msgstr ""
+msgstr "過關"
 
 #: pysollib\game\__init__.py:2433
 msgid "Congratulations, you did it!"
-msgstr ""
+msgstr "恭喜過關！"
 
 #: pysollib\game\__init__.py:2444
 #: pysollib\game\__init__.py:2463
@@ -2608,7 +2608,7 @@ msgstr ""
 
 #: pysollib\game\__init__.py:2852
 msgid "No moves found"
-msgstr ""
+msgstr "找不到可行步"
 
 #: pysollib\game\__init__.py:2890
 #, python-format
@@ -2646,7 +2646,7 @@ msgstr ""
 
 #: pysollib\game\__init__.py:3248
 msgid "You are Stuck"
-msgstr ""
+msgstr "已無步可走"
 
 #: pysollib\game\__init__.py:3249
 msgid ""
@@ -2732,7 +2732,7 @@ msgstr ""
 
 #: pysollib\game\__init__.py:3807
 msgid "Unpaused"
-msgstr ""
+msgstr "已繼續"
 
 #: pysollib\games\auldlangsyne.py:163
 #: pysollib\games\calculation.py:68
@@ -3011,11 +3011,11 @@ msgstr ""
 
 #: pysollib\kivy\menubar.py:265
 msgid "File"
-msgstr ""
+msgstr "檔案"
 
 #: pysollib\kivy\menubar.py:269
 msgid "Games"
-msgstr ""
+msgstr "遊戲"
 
 #: pysollib\kivy\menubar.py:274
 #: pysollib\kivy\menubar.py:1951
@@ -3032,7 +3032,7 @@ msgstr ""
 #: pysollib\tk\selectgame.py:390
 #: pysollib\tk\toolbar.py:198
 msgid "Statistics"
-msgstr ""
+msgstr "統計"
 
 #: pysollib\kivy\menubar.py:282
 msgid "Assist"
@@ -3042,13 +3042,13 @@ msgstr ""
 #: pysollib\kivy\menubar.py:1337
 #: pysollib\kivy\menubar.py:1976
 msgid "Options"
-msgstr ""
+msgstr "選項設定"
 
 #: pysollib\kivy\menubar.py:292
 #: pysollib\kivy\menubar.py:406
 #: pysollib\kivy\menubar.py:1984
 msgid "Help"
-msgstr ""
+msgstr "說明"
 
 #: pysollib\kivy\menubar.py:313
 #: pysollib\kivy\menubar.py:341
@@ -3062,31 +3062,31 @@ msgstr ""
 
 #: pysollib\kivy\menubar.py:327
 msgid "Recent games"
-msgstr ""
+msgstr "最近遊戲"
 
 #: pysollib\kivy\menubar.py:338
 msgid "Favorite games"
-msgstr ""
+msgstr "最愛遊戲"
 
 #: pysollib\kivy\menubar.py:352
 msgid "Random game"
-msgstr ""
+msgstr "隨機遊戲"
 
 #: pysollib\kivy\menubar.py:355
 msgid "Load"
-msgstr ""
+msgstr "載入"
 
 #: pysollib\kivy\menubar.py:357
 #: pysollib\tile\toolbar.py:180
 #: pysollib\tk\toolbar.py:189
 msgid "Save"
-msgstr ""
+msgstr "儲存"
 
 #: pysollib\kivy\menubar.py:360
 #: pysollib\tile\toolbar.py:192
 #: pysollib\tk\toolbar.py:201
 msgid "Quit"
-msgstr ""
+msgstr "離開"
 
 #: pysollib\kivy\menubar.py:379
 #: pysollib\kivy\toolbar.py:244
@@ -3110,7 +3110,7 @@ msgstr "重做"
 
 #: pysollib\kivy\menubar.py:383
 msgid "Redo all"
-msgstr ""
+msgstr "全部重作"
 
 #: pysollib\kivy\menubar.py:386
 #: pysollib\kivy\menubar.py:567
@@ -3118,7 +3118,7 @@ msgstr ""
 #: pysollib\tile\soundoptionsdialog.py:69
 #: pysollib\tk\soundoptionsdialog.py:69
 msgid "Auto drop"
-msgstr ""
+msgstr "自動放牌"
 
 #: pysollib\kivy\menubar.py:388
 #: pysollib\kivy\toolbar.py:247
@@ -3129,7 +3129,7 @@ msgstr ""
 
 #: pysollib\kivy\menubar.py:390
 msgid "Deal cards"
-msgstr ""
+msgstr "發牌"
 
 #: pysollib\kivy\menubar.py:392
 msgid "Reset zoom"
@@ -3140,11 +3140,11 @@ msgstr ""
 #: pysollib\tile\toolbar.py:187
 #: pysollib\tk\toolbar.py:196
 msgid "Pause"
-msgstr ""
+msgstr "暫停"
 
 #: pysollib\kivy\menubar.py:401
 msgid "Load game"
-msgstr ""
+msgstr "載入遊戲"
 
 #: pysollib\kivy\menubar.py:403
 #: pysollib\tile\toolbar.py:180
@@ -3173,7 +3173,7 @@ msgstr ""
 
 #: pysollib\kivy\menubar.py:559
 msgid "Automatic play"
-msgstr ""
+msgstr "自動遊戲"
 
 #: pysollib\kivy\menubar.py:562
 msgid "Auto face-up"
@@ -3233,7 +3233,7 @@ msgstr ""
 
 #: pysollib\kivy\menubar.py:641
 msgid "Stuck notification"
-msgstr ""
+msgstr "卡住通知"
 
 #: pysollib\kivy\menubar.py:648
 msgid "Show removed tiles (in Mahjongg games)"
@@ -3261,7 +3261,7 @@ msgstr ""
 
 #: pysollib\kivy\menubar.py:682
 msgid "Default"
-msgstr ""
+msgstr "預設"
 
 #: pysollib\kivy\menubar.py:686
 msgid "English"
@@ -3285,7 +3285,7 @@ msgstr ""
 
 #: pysollib\kivy\menubar.py:711
 msgid "Sound"
-msgstr ""
+msgstr "音效"
 
 #: pysollib\kivy\menubar.py:714
 msgid "Enable"
@@ -3293,7 +3293,7 @@ msgstr ""
 
 #: pysollib\kivy\menubar.py:718
 msgid "Volume"
-msgstr ""
+msgstr "音量"
 
 #: pysollib\kivy\menubar.py:721
 msgid "100%"
@@ -3313,7 +3313,7 @@ msgstr ""
 
 #: pysollib\kivy\menubar.py:738
 msgid "Samples"
-msgstr ""
+msgstr "範例音"
 
 #: pysollib\kivy\menubar.py:743
 msgid "are you sure"
@@ -3404,7 +3404,7 @@ msgstr ""
 
 #: pysollib\kivy\menubar.py:853
 msgid "Cardsets"
-msgstr ""
+msgstr "牌組"
 
 #: pysollib\kivy\menubar.py:893
 msgid "Table"
@@ -3619,11 +3619,11 @@ msgstr ""
 
 #: pysollib\kivy\menubar.py:1041
 msgid "Card view"
-msgstr ""
+msgstr "卡牌檢視"
 
 #: pysollib\kivy\menubar.py:1044
 msgid "Card shadow"
-msgstr ""
+msgstr "卡牌陰影"
 
 #: pysollib\kivy\menubar.py:1049
 msgid "Shade legal moves"
@@ -3644,27 +3644,27 @@ msgstr ""
 
 #: pysollib\kivy\menubar.py:1073
 msgid "Animations"
-msgstr ""
+msgstr "動畫"
 
 #: pysollib\kivy\menubar.py:1081
 msgid "Very fast"
-msgstr ""
+msgstr "非常快"
 
 #: pysollib\kivy\menubar.py:1086
 msgid "Fast"
-msgstr ""
+msgstr "快"
 
 #: pysollib\kivy\menubar.py:1091
 msgid "Medium"
-msgstr ""
+msgstr "中"
 
 #: pysollib\kivy\menubar.py:1096
 msgid "Slow"
-msgstr ""
+msgstr "慢"
 
 #: pysollib\kivy\menubar.py:1101
 msgid "Very slow"
-msgstr ""
+msgstr "非常慢"
 
 #: pysollib\kivy\menubar.py:1128
 msgid "Touch mode"
@@ -3732,7 +3732,7 @@ msgstr ""
 
 #: pysollib\kivy\menubar.py:1274
 msgid "Font size"
-msgstr ""
+msgstr "字型大小"
 
 #: pysollib\kivy\menubar.py:1277
 msgid "default"
@@ -3768,22 +3768,22 @@ msgstr ""
 
 #: pysollib\kivy\menubar.py:1352
 msgid "Contents"
-msgstr ""
+msgstr "目錄"
 
 #: pysollib\kivy\menubar.py:1356
 msgid "How to use PySol"
-msgstr ""
+msgstr "PySol 使用指南"
 
 #: pysollib\kivy\menubar.py:1360
 #: pysollib\kivy\toolbar.py:250
 #: pysollib\tile\toolbar.py:190
 #: pysollib\tk\toolbar.py:199
 msgid "Rules for this game"
-msgstr ""
+msgstr "本遊戲規則"
 
 #: pysollib\kivy\menubar.py:1364
 msgid "License terms"
-msgstr ""
+msgstr "授權條款"
 
 #: pysollib\kivy\menubar.py:1368
 #, python-format
@@ -3856,7 +3856,7 @@ msgstr ""
 #: pysollib\kivy\menubar.py:2420
 #: pysollib\pysolgtk\menubar.py:702
 msgid "Select cardset"
-msgstr ""
+msgstr "選擇牌組"
 
 #: pysollib\kivy\menubar.py:2611
 #: pysollib\ui\tktile\menubar.py:2248
@@ -4185,7 +4185,7 @@ msgstr ""
 #: pysollib\tile\tkhtml.py:76
 #: pysollib\tk\tkhtml.py:71
 msgid "Index"
-msgstr ""
+msgstr "索引"
 
 #: pysollib\kivy\tkhtml.py:481
 #: pysollib\pysolgtk\tkhtml.py:223
@@ -4287,7 +4287,7 @@ msgstr ""
 #: pysollib\tk\toolbar.py:186
 #: pysollib\ui\tktile\menubar.py:564
 msgid "Restart"
-msgstr ""
+msgstr "重新開始"
 
 #: pysollib\kivy\toolbar.py:243
 #: pysollib\tile\toolbar.py:177
@@ -4301,19 +4301,19 @@ msgstr ""
 #: pysollib\tile\toolbar.py:182
 #: pysollib\tk\toolbar.py:191
 msgid "Undo last move"
-msgstr ""
+msgstr "復原上一步"
 
 #: pysollib\kivy\toolbar.py:245
 #: pysollib\tile\toolbar.py:183
 #: pysollib\tk\toolbar.py:192
 msgid "Redo last move"
-msgstr ""
+msgstr "重作上一步"
 
 #: pysollib\kivy\toolbar.py:246
 #: pysollib\tile\toolbar.py:184
 #: pysollib\tk\toolbar.py:193
 msgid "Autodrop"
-msgstr ""
+msgstr "自動放牌"
 
 #: pysollib\kivy\toolbar.py:246
 #: pysollib\tile\toolbar.py:184
@@ -4331,48 +4331,48 @@ msgstr "洗牌"
 #: pysollib\tile\toolbar.py:187
 #: pysollib\tk\toolbar.py:196
 msgid "Pause game"
-msgstr ""
+msgstr "暫停遊戲"
 
 #: pysollib\kivy\toolbar.py:250
 #: pysollib\tile\toolbar.py:190
 #: pysollib\tk\toolbar.py:199
 msgid "Rules"
-msgstr ""
+msgstr "規則"
 
 #: pysollib\pysolgtk\colorsdialog.py:88
 #: pysollib\pysolgtk\fontsdialog.py:92
 #: pysollib\ui\tktile\colorsdialog.py:113
 msgid "Select color"
-msgstr ""
+msgstr "選擇顏色"
 
 #: pysollib\pysolgtk\menubar.py:558
 msgid "Empty"
-msgstr ""
+msgstr "空白"
 
 #: pysollib\pysolgtk\menubar.py:599
 msgid "Open Game"
-msgstr ""
+msgstr "開啟遊戲"
 
 #: pysollib\pysolgtk\menubar.py:626
 msgid "Save Game"
-msgstr ""
+msgstr "儲存遊戲"
 
 #: pysollib\pysolgtk\menubar.py:674
 #: pysollib\ui\tktile\menubar.py:1648
 #: data\pysolfc.glade:4127
 msgid "Sound settings"
-msgstr ""
+msgstr "音效設定"
 
 #: pysollib\pysolgtk\menubar.py:683
 #: pysollib\ui\tktile\menubar.py:2001
 msgid "Select table background"
-msgstr ""
+msgstr "選擇桌面背景"
 
 #: pysollib\pysolgtk\playeroptionsdialog.py:62
 #: pysollib\tile\playeroptionsdialog.py:62
 #: pysollib\tk\playeroptionsdialog.py:105
 msgid "Confirm discard game"
-msgstr ""
+msgstr "確認放棄遊戲"
 
 #: pysollib\pysolgtk\playeroptionsdialog.py:68
 #: pysollib\tile\playeroptionsdialog.py:65
@@ -4444,17 +4444,17 @@ msgid "Tiny"
 msgstr ""
 
 msgid "Small"
-msgstr ""
+msgstr "小"
 
 msgctxt "size"
 msgid "Medium"
-msgstr ""
+msgstr "中"
 
 msgid "Large"
-msgstr ""
+msgstr "大"
 
 msgid "Extra Large"
-msgstr ""
+msgstr "特大"
 
 msgid "Hi-Res"
 msgstr ""
@@ -4489,7 +4489,7 @@ msgstr ""
 #: pysollib\tile\selectgame.py:450
 #: pysollib\tk\selectgame.py:389
 msgid "About game"
-msgstr ""
+msgstr "關於遊戲"
 
 #: pysollib\pysolgtk\selectgame.py:115
 #: pysollib\tile\selectgame.py:460
@@ -4585,19 +4585,19 @@ msgstr ""
 #: pysollib\tile\selecttile.py:402
 #: pysollib\tk\selecttile.py:185
 msgid "Select table color"
-msgstr ""
+msgstr "選擇桌面顏色"
 
 #: pysollib\pysolgtk\soundoptionsdialog.py:46
 #: pysollib\tile\soundoptionsdialog.py:59
 #: pysollib\tk\soundoptionsdialog.py:59
 msgid "Are You Sure"
-msgstr ""
+msgstr "確定嗎？"
 
 #: pysollib\pysolgtk\soundoptionsdialog.py:48
 #: pysollib\tile\soundoptionsdialog.py:61
 #: pysollib\tk\soundoptionsdialog.py:61
 msgid "Deal"
-msgstr ""
+msgstr "發牌"
 
 #: pysollib\pysolgtk\soundoptionsdialog.py:49
 #: pysollib\tile\soundoptionsdialog.py:62
@@ -4633,7 +4633,7 @@ msgstr ""
 #: pysollib\tile\soundoptionsdialog.py:71
 #: pysollib\tk\soundoptionsdialog.py:71
 msgid "Flip"
-msgstr ""
+msgstr "翻牌"
 
 #: pysollib\pysolgtk\soundoptionsdialog.py:59
 #: pysollib\tile\soundoptionsdialog.py:72
@@ -4657,13 +4657,13 @@ msgstr ""
 #: pysollib\tile\soundoptionsdialog.py:79
 #: pysollib\tk\soundoptionsdialog.py:79
 msgid "Autopilot lost"
-msgstr ""
+msgstr "自動駕駛已輸"
 
 #: pysollib\pysolgtk\soundoptionsdialog.py:67
 #: pysollib\tile\soundoptionsdialog.py:80
 #: pysollib\tk\soundoptionsdialog.py:80
 msgid "Autopilot won"
-msgstr ""
+msgstr "自動駕駛已贏"
 
 #: pysollib\pysolgtk\soundoptionsdialog.py:69
 #: pysollib\tile\soundoptionsdialog.py:82
@@ -4675,13 +4675,13 @@ msgstr ""
 #: pysollib\tile\soundoptionsdialog.py:85
 #: pysollib\tk\soundoptionsdialog.py:85
 msgid "Game lost"
-msgstr ""
+msgstr "破關失敗"
 
 #: pysollib\pysolgtk\soundoptionsdialog.py:74
 #: pysollib\tile\soundoptionsdialog.py:87
 #: pysollib\tk\soundoptionsdialog.py:87
 msgid "Perfect game"
-msgstr ""
+msgstr "完美一局"
 
 #: pysollib\pysolgtk\statusbar.py:96
 #: pysollib\pysolgtk\tkstats.py:426
@@ -4689,7 +4689,7 @@ msgstr ""
 #: pysollib\tk\statusbar.py:149
 #: data\pysolfc.glade:1133
 msgid "Playing time"
-msgstr ""
+msgstr "遊戲時間"
 
 #: pysollib\pysolgtk\statusbar.py:97
 #: pysollib\tile\statusbar.py:154
@@ -4707,7 +4707,7 @@ msgstr ""
 #: pysollib\tile\tkhtml.py:92
 #: pysollib\tk\tkhtml.py:83
 msgid "Close"
-msgstr ""
+msgstr "關閉"
 
 #: pysollib\pysolgtk\tkhtml.py:440
 #: pysollib\ui\tktile\tkhtml.py:319
@@ -4962,7 +4962,7 @@ msgstr ""
 #: pysollib\tile\fontsdialog.py:207
 #: pysollib\tk\fontsdialog.py:191
 msgid "Select font"
-msgstr ""
+msgstr "選擇字型"
 
 #: pysollib\tile\menubar.py:100
 #: pysollib\tk\menubar.py:103
@@ -5025,7 +5025,7 @@ msgstr ""
 #: pysollib\tile\playeroptionsdialog.py:57
 #: pysollib\tk\playeroptionsdialog.py:92
 msgid "Please enter your name"
-msgstr ""
+msgstr "請輸入你的名字"
 
 #: pysollib\tile\selectcardset.py:139
 #: pysollib\tk\selectcardset.py:135
@@ -5065,7 +5065,7 @@ msgstr ""
 
 #: pysollib\tile\selectcardset.py:306
 msgid "Card Size"
-msgstr ""
+msgstr "卡牌大小"
 
 #: pysollib\tile\selectcardset.py:311
 #: pysollib\tile\selectcardset.py:315
@@ -5112,7 +5112,7 @@ msgstr ""
 #: pysollib\tile\selectcardset.py:732
 #: pysollib\tk\selectcardset.py:429
 msgid "About cardset"
-msgstr ""
+msgstr "關於牌組"
 
 #: pysollib\tile\selectcardset.py:750
 #: pysollib\tk\selectcardset.py:445
@@ -5162,7 +5162,7 @@ msgstr ""
 
 #: pysollib\tile\selectgame.py:442
 msgid "Games list"
-msgstr ""
+msgstr "遊戲清單"
 
 #: pysollib\tile\selectgame.py:763
 msgid "Alternate Names:"
@@ -5174,7 +5174,7 @@ msgstr ""
 
 #: pysollib\tile\selectgame.py:899
 msgid "Variable"
-msgstr ""
+msgstr "變動"
 
 #: pysollib\tile\selectgame.py:901
 msgid "Unlimited"
@@ -5220,7 +5220,7 @@ msgstr ""
 
 #: pysollib\tile\selectgame.py:1249
 msgid "Favorite"
-msgstr ""
+msgstr "最愛"
 
 #: pysollib\tile\selectgame.py:1257
 msgid "Children's"
@@ -5242,7 +5242,7 @@ msgstr ""
 #: pysollib\tile\toolbar.py:179
 #: pysollib\tk\toolbar.py:188
 msgid "Open"
-msgstr ""
+msgstr "開啟"
 
 #: pysollib\tile\selectgame.py:1288
 msgid "Relaxed"
@@ -5250,7 +5250,7 @@ msgstr ""
 
 #: pysollib\tile\selectgame.py:1295
 msgid "Original"
-msgstr ""
+msgstr "原始"
 
 #: pysollib\tile\selecttile.py:92
 #: pysollib\tk\selecttile.py:71
@@ -5318,7 +5318,7 @@ msgstr ""
 #: pysollib\tk\soundoptionsdialog.py:99
 #: data\pysolfc.glade:4212
 msgid "Sound enabled"
-msgstr ""
+msgstr "啟用音效"
 
 #: pysollib\tile\soundoptionsdialog.py:105
 #: pysollib\tk\soundoptionsdialog.py:105
@@ -5333,11 +5333,11 @@ msgstr ""
 
 #: pysollib\tile\soundoptionsdialog.py:115
 msgid "Sample volume"
-msgstr ""
+msgstr "範例音量"
 
 #: pysollib\tile\soundoptionsdialog.py:120
 msgid "Music enabled"
-msgstr ""
+msgstr "啟用音樂"
 
 #: pysollib\tile\soundoptionsdialog.py:124
 #: pysollib\tk\soundoptionsdialog.py:119
@@ -5347,7 +5347,7 @@ msgstr ""
 
 #: pysollib\tile\soundoptionsdialog.py:128
 msgid "Music volume"
-msgstr ""
+msgstr "音樂音量"
 
 #: pysollib\tile\soundoptionsdialog.py:136
 #: pysollib\tile\soundoptionsdialog.py:145
@@ -5373,7 +5373,7 @@ msgstr ""
 
 #: pysollib\tile\statusbar.py:157
 msgid "Number of cards"
-msgstr ""
+msgstr "牌數"
 
 #: pysollib\tile\timeoutsdialog.py:58
 msgid "Set delays in seconds"
@@ -5419,7 +5419,7 @@ msgstr ""
 
 #: pysollib\tile\tkstats.py:54
 msgid "Demo Statistics"
-msgstr ""
+msgstr "示範統計"
 
 #: pysollib\tile\tkstats.py:73
 #: pysollib\tile\tkstats.py:828
@@ -5428,7 +5428,7 @@ msgstr ""
 #: pysollib\tk\tkstats.py:915
 #: data\pysolfc.glade:660
 msgid "Current game"
-msgstr ""
+msgstr "目前遊戲"
 
 #: pysollib\tile\tkstats.py:77
 #: pysollib\tile\tkstats.py:836
@@ -5448,14 +5448,14 @@ msgstr ""
 #: pysollib\tk\tkstats.py:70
 #: data\pysolfc.glade:626
 msgid "Total"
-msgstr ""
+msgstr "總計"
 
 #: pysollib\tile\tkstats.py:182
 #: pysollib\tile\tkstats.py:183
 #: pysollib\tk\tkstats.py:72
 #: data\pysolfc.glade:348
 msgid "Current session"
-msgstr ""
+msgstr "本次連線"
 
 #: pysollib\tile\tkstats.py:561
 msgid "Log"
@@ -5463,7 +5463,7 @@ msgstr ""
 
 #: pysollib\tile\tkstats.py:563
 msgid "Demo Log"
-msgstr ""
+msgstr "示範日誌"
 
 #: pysollib\tile\tkstats.py:578
 #: data\pysolfc.glade:1466
@@ -5631,7 +5631,7 @@ msgstr ""
 #: pysollib\tile\toolbar.py:189
 #: pysollib\tk\toolbar.py:198
 msgid "View statistics"
-msgstr ""
+msgstr "檢視統計"
 
 #: pysollib\tile\toolbar.py:213
 #: pysollib\tk\toolbar.py:214
@@ -5641,7 +5641,7 @@ msgstr ""
 #: pysollib\tile\toolbar.py:214
 #: pysollib\tk\toolbar.py:215
 msgid "Player options"
-msgstr ""
+msgstr "玩家選項"
 
 #: pysollib\tk\playeroptionsdialog.py:100
 msgid "Choose..."
@@ -6331,15 +6331,15 @@ msgstr ""
 
 #: pysollib\ui\tktile\menubar.py:516
 msgid "Fa&vorite games"
-msgstr ""
+msgstr "最愛遊戲(&V)"
 
 #: pysollib\ui\tktile\menubar.py:517
 msgid "A&dd to favorites"
-msgstr ""
+msgstr "加入最愛(&D)"
 
 #: pysollib\ui\tktile\menubar.py:519
 msgid "Remove &from favorites"
-msgstr ""
+msgstr "自最愛移除(&F)"
 
 #: pysollib\ui\tktile\menubar.py:523
 msgid "&Open..."
@@ -6351,7 +6351,7 @@ msgstr "儲存(&S)"
 
 #: pysollib\ui\tktile\menubar.py:528
 msgid "Save &as..."
-msgstr ""
+msgstr "另存新檔(&A)..."
 
 #: pysollib\ui\tktile\menubar.py:530
 msgid "E&xport current layout..."
@@ -6379,7 +6379,7 @@ msgstr "重做(&R)"
 
 #: pysollib\ui\tktile\menubar.py:560
 msgid "Redo &all"
-msgstr ""
+msgstr "全部重作(&A)"
 
 #: pysollib\ui\tktile\menubar.py:568
 msgid "&Set bookmark"
@@ -6786,7 +6786,7 @@ msgstr ""
 
 #: pysollib\ui\tktile\menubar.py:928
 msgid "What's &new?"
-msgstr ""
+msgstr "最新變化(&N)"
 
 #: pysollib\ui\tktile\menubar.py:931
 msgid "R&eport a bug"
@@ -6839,11 +6839,11 @@ msgstr ""
 
 #: pysollib\ui\tktile\menubar.py:1487
 msgid "Clear recent games"
-msgstr ""
+msgstr "清除最近遊戲"
 
 #: pysollib\ui\tktile\menubar.py:1488
 msgid "Clear the recent games list?"
-msgstr ""
+msgstr "清除最近遊戲清單？"
 
 #: pysollib\ui\tktile\menubar.py:1523
 msgid "Export game error"
@@ -6930,7 +6930,7 @@ msgstr[1] ""
 
 #: pysollib\ui\tktile\solverdialog.py:199
 msgid "I could not solve this game."
-msgstr ""
+msgstr "我解不了這局。"
 
 #: pysollib\ui\tktile\solverdialog.py:201
 msgid "Iterations count exceeded (Intractable)"
@@ -6958,16 +6958,16 @@ msgstr ""
 
 #: data\pysolfc.glade:7
 msgid "Game Statistics"
-msgstr ""
+msgstr "遊戲統計"
 
 #: data\pysolfc.glade:1088
 msgid "Summary"
-msgstr ""
+msgstr "彙整"
 
 #: data\pysolfc.glade:1223
 msgid "Total moves"
-msgstr ""
+msgstr "總步數"
 
 #: data\pysolfc.glade:3145
 msgid "Set font"
-msgstr ""
+msgstr "設定字型"
