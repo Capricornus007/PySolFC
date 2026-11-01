@@ -5441,7 +5441,7 @@ msgstr ""
 
 #: pysollib\tile\tkstats.py:87
 msgid "Progression"
-msgstr "递進"
+msgstr "遞進"
 
 #: pysollib\tile\tkstats.py:175
 #: pysollib\tile\tkstats.py:176
