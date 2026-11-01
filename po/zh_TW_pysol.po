@@ -206,7 +206,7 @@ msgstr "要重新開始本局？"
 msgid ""
 "Comments for %(game)s %(id)s:\n"
 "\n"
-msgstr ""
+msgstr "%(game)s %(id)s 的意見：\n\n"
 
 #: pysollib\actions.py:560
 #, python-format
@@ -230,7 +230,7 @@ msgid ""
 "Comments were appended to\n"
 "\n"
 "%(filename)s"
-msgstr ""
+msgstr "意見已附加到\n\n%(filename)s"
 
 #: pysollib\actions.py:591
 #, python-format
@@ -272,7 +272,7 @@ msgstr "%(player)s 的統計"
 #: pysollib\actions.py:648
 #, python-format
 msgid "%(app)s Demo Full log"
-msgstr ""
+msgstr "%(app)s 示範完整日誌"
 
 #: pysollib\actions.py:649
 #: pysollib\stats.py:235
@@ -283,7 +283,7 @@ msgstr "%(player)s 的完整日誌"
 #: pysollib\actions.py:655
 #, python-format
 msgid "%(app)s Demo Session log"
-msgstr ""
+msgstr "%(app)s 示範連線日誌"
 
 #: pysollib\actions.py:656
 #: pysollib\stats.py:242
@@ -295,12 +295,12 @@ msgstr "%(player)s 的對話日誌"
 #: pysollib\actions.py:663
 #, python-format
 msgid "%(app)s Demo Top %(tops)d for %(game)s"
-msgstr ""
+msgstr "%(app)s 示範 %(game)s 前 %(tops)d 名"
 
 #: pysollib\actions.py:664
 #, python-format
 msgid "Top %(tops)d for %(game)s"
-msgstr ""
+msgstr "%(game)s 前 %(tops)d 名"
 
 #: pysollib\actions.py:668
 msgid "Game Info"
@@ -360,7 +360,7 @@ msgstr "設定間隔"
 #: pysollib\main.py:421
 #, python-format
 msgid "can't find game: %(game)s"
-msgstr ""
+msgstr "找不到遊戲：%(game)s"
 
 #: pysollib\app.py:558
 #: pysollib\pysolgtk\selectgame.py:325
@@ -537,7 +537,7 @@ msgstr ""
 #: pysollib\app.py:779
 #, python-format
 msgid "Loading cardset %s..."
-msgstr ""
+msgstr "載入牌組 %s…"
 
 #: pysollib\app.py:832
 msgid "Cardset load error"
@@ -550,7 +550,7 @@ msgstr "載入牌組時發生錯誤"
 #: pysollib\app.py:965
 #, python-format
 msgid "(with %d or more cards)"
-msgstr ""
+msgstr "（%d 張以上）"
 
 #: pysollib\app.py:968
 msgid "Incompatible cardset"
@@ -571,12 +571,12 @@ msgstr ""
 #: pysollib\app.py:1039
 #, python-format
 msgid "Please select a %s type cardset"
-msgstr ""
+msgstr "請選擇 %s 類型牌組"
 
 #: pysollib\app.py:1246
 #, python-format
 msgid "error loading plugin %(file)s: %(err)s"
-msgstr ""
+msgstr "載入外掛 %(file)s 錯誤：%(err)s"
 
 #: pysollib\gamedb.py:136
 msgid "Baker's Dozen"
@@ -989,12 +989,12 @@ msgstr ""
 #: pysollib\help.py:49
 #, python-format
 msgid "Version %s"
-msgstr ""
+msgstr "版本 %s"
 
 #: pysollib\help.py:50
 #, python-format
 msgid "About %s"
-msgstr ""
+msgstr "關於 %s"
 
 #: pysollib\help.py:52
 #, python-format
@@ -1039,7 +1039,7 @@ msgstr ""
 #: pysollib\kivy\tkhtml.py:706
 #, python-format
 msgid "%s HTML Problem"
-msgstr ""
+msgstr "%s HTML 問題"
 
 #: pysollib\help.py:131
 #, python-format
@@ -1051,14 +1051,14 @@ msgstr ""
 #: pysollib\help.py:144
 #, python-format
 msgid "%s Help"
-msgstr ""
+msgstr "%s 說明"
 
 #: pysollib\main.py:58
 #: pysollib\main.py:70
 #: pysollib\main.py:311
 #, python-format
 msgid "%s installation error"
-msgstr ""
+msgstr "%s 安裝錯誤"
 
 #: pysollib\main.py:59
 #, python-format
@@ -1092,7 +1092,7 @@ msgstr ""
 #: pysollib\main.py:97
 #, python-format
 msgid "try %s --help for more information"
-msgstr ""
+msgstr "試試 %s --help 取得更多資訊"
 
 #: pysollib\main.py:132
 #, python-format
@@ -1134,7 +1134,7 @@ msgstr ""
 #: pysollib\main.py:233
 #, python-format
 msgid "Welcome to %s"
-msgstr ""
+msgstr "歡迎使用 %s"
 
 #: pysollib\main.py:312
 #, python-format
@@ -1494,7 +1494,7 @@ msgstr ""
 #: pysollib\resource.py:664
 #, python-format
 msgid "With %(cards)d or more cards)"
-msgstr ""
+msgstr "（%(cards)d 張以上）"
 
 #: pysollib\settings.py:74
 #: data\pysolfc.glade:1280
@@ -1517,7 +1517,7 @@ msgstr ""
 #: pysollib\games\terrace.py:85
 #, python-format
 msgid "Base card - %s."
-msgstr ""
+msgstr "起始牌——%s。"
 
 #: pysollib\stack.py:1660
 msgid "Empty row cannot be filled."
@@ -1580,7 +1580,7 @@ msgstr[1] ""
 #: pysollib\games\larasgame.py:159
 #, python-format
 msgid "Round %d"
-msgstr ""
+msgstr "第 %d 局"
 
 #: pysollib\stack.py:1918
 #: pysollib\stack.py:1920
@@ -1960,7 +1960,7 @@ msgstr "狀態"
 #: pysollib\tile\tkstats.py:779
 #, python-format
 msgid "** UNKNOWN %d **"
-msgstr ""
+msgstr "** 未知 %d **"
 
 #: pysollib\stats.py:140
 msgid "** ERROR **"
@@ -1991,7 +1991,7 @@ msgstr "示範"
 #: pysollib\tk\tkstats.py:412
 #, python-format
 msgid "Total (%(played)d out of %(total)d games)"
-msgstr ""
+msgstr "總計（%(played)d／%(total)d 局）"
 
 #: pysollib\util.py:45
 #: pysollib\games\special\tarock.py:231
@@ -2589,12 +2589,12 @@ msgstr ""
 #: pysollib\game\__init__.py:2453
 #, python-format
 msgid "You used %(h)s hint(s) and the demo during this game."
-msgstr ""
+msgstr "本局你使用了 %(h)s 次提示與示範。"
 
 #: pysollib\game\__init__.py:2457
 #, python-format
 msgid "You used %(h)s hint(s) during this game."
-msgstr ""
+msgstr "本局你使用了 %(h)s 次提示。"
 
 #: pysollib\game\__init__.py:2461
 msgid "You used the demo during this game."
@@ -2613,12 +2613,12 @@ msgstr "找不到可行步"
 #: pysollib\game\__init__.py:2890
 #, python-format
 msgid "Score %6d"
-msgstr ""
+msgstr "分數 %6d"
 
 #: pysollib\game\__init__.py:2899
 #, python-format
 msgid "Move %s to %s"
-msgstr ""
+msgstr "將 %s 移到 %s"
 
 #: pysollib\game\__init__.py:3005
 #, python-format
@@ -2636,7 +2636,7 @@ msgstr[1] ""
 #: pysollib\game\__init__.py:3040
 #, python-format
 msgid "%s Autopilot"
-msgstr ""
+msgstr "%s 自動駕駛"
 
 #: pysollib\game\__init__.py:3041
 msgid ""
@@ -2661,7 +2661,7 @@ msgstr "設定書籤"
 #: pysollib\game\__init__.py:3522
 #, python-format
 msgid "Replace existing bookmark %d?"
-msgstr ""
+msgstr "取代既有書籤 %d？"
 
 #: pysollib\game\__init__.py:3543
 msgid "Goto bookmark"
@@ -2670,7 +2670,7 @@ msgstr "跳到書籤"
 #: pysollib\game\__init__.py:3544
 #, python-format
 msgid "Goto bookmark %d?"
-msgstr ""
+msgstr "跳到書籤 %d？"
 
 #: pysollib\game\__init__.py:3570
 msgid "Open game"
@@ -2713,7 +2713,7 @@ msgstr "儲存遊戲時發生錯誤"
 #: pysollib\game\__init__.py:3650
 #, python-format
 msgid "Invalid or damaged %s save file"
-msgstr ""
+msgstr "%s 存檔無效或已損壞"
 
 #: pysollib\game\__init__.py:3675
 #, python-format
@@ -2795,7 +2795,7 @@ msgstr "起始點數： "
 #: pysollib\games\klondike.py:128
 #, python-format
 msgid "Balance $%d"
-msgstr ""
+msgstr "餘額 $%d"
 
 #: pysollib\games\curdsandwhey.py:77
 msgid "Tableau. Build down by suit or of the same rank."
@@ -2845,7 +2845,7 @@ msgstr ""
 #: pysollib\games\grandfathersclock.py:729
 #, python-format
 msgid "Kings: %d"
-msgstr ""
+msgstr "國王：%d"
 
 #: pysollib\games\hitormiss.py:48
 msgid "Foundation. Place cards here that match the declared rank."
@@ -2869,12 +2869,12 @@ msgstr ""
 #: pysollib\games\matriarchy.py:123
 #, python-format
 msgid "Round %(round)d/%(max_rounds)d"
-msgstr ""
+msgstr "第 %(round)d／%(max_rounds)d 局"
 
 #: pysollib\games\matriarchy.py:126
 #, python-format
 msgid "Deal %d"
-msgstr ""
+msgstr "第 %d 發"
 
 #: pysollib\games\montana.py:253
 #: pysollib\games\mahjongg\shisensho.py:455
@@ -2883,7 +2883,7 @@ msgstr ""
 #: pysollib\games\special\samegame.py:261
 #, python-format
 msgid "Row: %d, Column: %d"
-msgstr ""
+msgstr "行：%d，列：%d"
 
 #: pysollib\games\moojub.py:132
 msgid ""
@@ -3817,7 +3817,7 @@ msgstr ""
 #: pysollib\ui\tktile\menubar.py:1469
 #, python-format
 msgid "%s files"
-msgstr ""
+msgstr "%s 檔案"
 
 #: pysollib\kivy\menubar.py:2140
 #: pysollib\ui\tktile\menubar.py:1470
@@ -3923,7 +3923,7 @@ msgstr "依相容性"
 #: pysollib\tk\selectgame.py:146
 #, python-format
 msgid "New games in v. %(version)s"
-msgstr ""
+msgstr "v. %(version)s 新增遊戲"
 
 #: pysollib\kivy\selectgame.py:174
 #: pysollib\pysolgtk\selectgame.py:296
@@ -4553,7 +4553,7 @@ msgstr ""
 #: pysollib\tk\selectgame.py:545
 #, python-format
 msgid "Select Game - %(game)s"
-msgstr ""
+msgstr "選擇遊戲——%(game)s"
 
 #: pysollib\pysolgtk\selectgame.py:497
 #: pysollib\tk\selectgame.py:591
@@ -5827,7 +5827,7 @@ msgstr[1] ""
 #: pysollib\games\mahjongg\mahjongg.py:1130
 #, python-format
 msgid "Layer: %d"
-msgstr ""
+msgstr "層數：%d"
 
 #: pysollib\games\special\cribbage.py:173
 #: pysollib\games\special\cribbage.py:545
@@ -5850,7 +5850,7 @@ msgstr ""
 #: pysollib\games\special\poker.py:213
 #, python-format
 msgid "Points: %d"
-msgstr ""
+msgstr "點數：%d"
 
 #: pysollib\games\special\cribbage.py:177
 #: pysollib\games\special\cribbage.py:546
@@ -5858,18 +5858,18 @@ msgstr ""
 #: pysollib\games\special\poker.py:209
 #, python-format
 msgid "Total: %d"
-msgstr ""
+msgstr "總計：%d"
 
 #: pysollib\games\special\cribbage.py:192
 #: pysollib\games\special\poker.py:224
 #, python-format
 msgid "Row: %d, Score %d, Column: %d, Score %d"
-msgstr ""
+msgstr "行：%d 分數 %d，列：%d 分數 %d"
 
 #: pysollib\games\special\cribbage.py:512
 #, python-format
 msgid "Hand Score %d"
-msgstr ""
+msgstr "本手分數 %d"
 
 #: pysollib\games\special\dashavatara.py:356
 msgid "Fish"
@@ -6087,12 +6087,12 @@ msgstr ""
 #: pysollib\games\special\matchthree.py:311
 #, python-format
 msgid "Goal: %d"
-msgstr ""
+msgstr "目標：%d"
 
 #: pysollib\games\special\matchthree.py:312
 #, python-format
 msgid "Moves left: %d"
-msgstr ""
+msgstr "剩餘步數：%d"
 
 #: pysollib\games\special\mughal.py:258
 msgid "Crown"
@@ -6138,7 +6138,7 @@ msgstr ""
 #: pysollib\games\special\poker.py:380
 #, python-format
 msgid "Row: %d, Column: %d, Current hand: %s"
-msgstr ""
+msgstr "行：%d，列：%d，目前手牌：%s"
 
 #: pysollib\games\special\tarock.py:231
 msgid "Trump"
@@ -6287,7 +6287,7 @@ msgstr ""
 #: pysollib\ui\tktile\menubar.py:484
 #, python-format
 msgid "&About %s"
-msgstr ""
+msgstr "關於(&A) %s"
 
 #: pysollib\ui\tktile\menubar.py:486
 msgid "&File"
@@ -6389,7 +6389,7 @@ msgstr ""
 #: pysollib\ui\tktile\menubar.py:576
 #, python-format
 msgid "Bookmark %d"
-msgstr ""
+msgstr "書籤 %d"
 
 #: pysollib\ui\tktile\menubar.py:574
 msgid "Go&to bookmark"
@@ -6799,7 +6799,7 @@ msgstr ""
 #: pysollib\ui\tktile\menubar.py:939
 #, python-format
 msgid "&About %s..."
-msgstr ""
+msgstr "關於 %s…(&A)"
 
 #: pysollib\ui\tktile\menubar.py:1091
 msgid "All &games..."
@@ -6882,12 +6882,12 @@ msgstr "刪除遊戲"
 #: pysollib\ui\tktile\menubar.py:2291
 #, python-format
 msgid "Delete the game %s?"
-msgstr ""
+msgstr "刪除遊戲 %s？"
 
 #: pysollib\ui\tktile\solverdialog.py:29
 #, python-format
 msgid "%(app)s - FreeCell Solver"
-msgstr ""
+msgstr "%(app)s - FreeCell 求解器"
 
 #: pysollib\ui\tktile\solverdialog.py:72
 #: pysollib\ui\tktile\solverdialog.py:76
